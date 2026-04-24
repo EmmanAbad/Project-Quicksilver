@@ -6,6 +6,7 @@
 </p>
 
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/60771358-e37c-479a-9417-f8bdb5cee367" />
+<p align="center">WEIGHT: 3.12g | DIMENSION: 9cm x 15cm x 8cm</p>
 
 ---
 
